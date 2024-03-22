@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Supriya Sarker
-#### I am working as a Lecturer @ World University of Bangladesh
-![I am Lecturer @ World University of Bangladesh](https://assets3.thrillist.com/v1/image/1764933/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70)
+#### I am graduate student@ The University of Tennessee, Knoxville
 
 Experienced Lecturer with a demonstrated history of working in the higher education industry. Skilled in Computer Science, Data Science, LaTeX, Deep Learning, and Machine Learning. Strong education professional with a Master's degree focused in Computer Science and Engineering from Chittagong University of Engineering & Technology. 
 
